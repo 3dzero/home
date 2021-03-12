@@ -7,8 +7,8 @@
 - PLA 968 руб катушка с пластиком(1кг)
 - HIPS 498 руб катушка с пластиком(1кг)
 - SBS 718 руб катушка с пластиком(1кг)
-- PETG 768 руб катушка с пластиком(1кг)
-- TPU 988 руб катушка с пластиком(1кг)
+- [PETG](https://github.com/3dzero/home/blob/main/fdplast/petg.md) 768 руб катушка с пластиком(1кг)
+- [TPU](https://github.com/3dzero/home/blob/main/fdplast/tpu.md) 988 руб катушка с пластиком(1кг)
 
 
 ### REC
