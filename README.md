@@ -14,7 +14,7 @@
 ### Какое оборудование используется?
 - FDM и SLA 3д принтеры.
 
-(список нашего оборудования)[https://github.com/3dzero/home/blob/main/equipment.md]
+[список нашего оборудования](https://github.com/3dzero/home/blob/main/equipment.md)
 
 ### Какая точность изделий
 - SLA 0,05 мм/слой
