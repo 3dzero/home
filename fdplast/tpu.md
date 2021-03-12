@@ -119,18 +119,4 @@ source: https://www.fdplast.ru/plastik-dlya-3d-printera/tpu/
 
 <p><img alt="" height="334" src="img/TPU_FD_napechatannye-izdeliy.jpg" style="float:left" width="800"></p>
 
-<p class="h2">&nbsp;</p>
-
-<p class="h2">&nbsp;</p>
-
-<p class="h2">&nbsp;</p>
-
-<div id="see_also"><p class="h2"><a class="title" href="/plastik-dlya-3d-printera/sovety-po-3l-pechati/">Советы по 3D печати</a></p>
-<p style="text-align: right;"><a href="/plastik-dlya-3d-printera/sovety-po-3l-pechati/">Подробнее &gt;&gt;</a></p>
-<!--/.item--></div>
-<!--/#see_also-->
-                    <p class="h2 hr">Скачать</p><p><a class="imged" href="assets/files/Buklet_3d_plastik_svoistva_pechat.pdf" target="_blank">Буклет. Пластик для 3D печати Московского завода FDplast</a></p>
-<p><a class="imged" href="assets/files/Презентация_Высокоточный пруток для 3D печати_2020.pdf" target="_blank">Презентация. Высокоточный пруток для 3D печати FDplast</a></p>
-
-                </div>
 
