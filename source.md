@@ -1,5 +1,13 @@
 # Расходники для 3D принтеров
 ## FDM
+## BESTFILAMENT
+- site: https://bestfilament.ru/
+
+- ABS 	1590 руб (1кг)
+- PETG 	1590 руб (1кг)
+- PLA 	1790 руб (1кг)
+
+
 ## FDplast
 - site: https://www.fdplast.ru/plastik-dlya-3d-printera/
 
