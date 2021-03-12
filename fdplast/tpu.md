@@ -117,7 +117,7 @@ source: https://www.fdplast.ru/plastik-dlya-3d-printera/tpu/
 
 <p>Пластик для 3d&nbsp;печати необходимо хранить в сухом месте. Влага и сырость сильно влияют на филамент, в результате пластик портится, печатать из такого пластика становится невозможно. С хранением пластика не возникает проблем, он практически не подвержен воздействию нормальной влажности воздуха окружающей среды. Однако для получения идеального результата печати филамент целесообразно хранить в сухом месте, с силикагелем.</p>
 
-<p><img alt="" height="334" src="https://www.fdplast.ru/plastik-dlya-3d-printera/tpu/assets/images/cat/TPU_FD_napechatannye-izdeliy.jpg" style="float:left" width="800"></p>
+<p><img alt="" height="334" src="img/TPU_FD_napechatannye-izdeliy.jpg" style="float:left" width="800"></p>
 
 <p class="h2">&nbsp;</p>
 
