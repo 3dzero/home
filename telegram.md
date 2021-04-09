@@ -1,4 +1,16 @@
 # Telegram chans
+## Animals FREE STLs
+
+https://t.me/AnimalSTL
+## Automotive - Boats - Aircrafts
+
+https://t.me/AutomotiveSTL
+## Funko Pop &amp; Plakit &amp; Chibi STL
+
+https://t.me/FunkoSTL
+## Pokemon STL
+
+https://t.me/PokemonSTL
 ## Guns and Manly Stuff 💪 😎 FREE STL
 
 https://t.me/GunsSTL
