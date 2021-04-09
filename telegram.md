@@ -1,8 +1,10 @@
 ## Telegram chans
-### 3D технологии
+## 3D технологии
+
 https://t.me/threedtechno
 
 Все для любителей ЧПУ и 3D печати
+
 
 ### КАНАЛ 3D Печать вещей
 https://t.me/Info_3dcat
