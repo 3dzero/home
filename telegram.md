@@ -1,4 +1,16 @@
 ## Telegram chans
+## КАНАЛ 3D Печать вещей
+
+https://t.me/Info_3dcat
+
+Подборка моделей для 3D печати.
+Запчасти для ремонта и модернизации вашего 3D принтера -  на сайте  http://3DCAT.PRO
+Биржа заказов 3D печати в боте:
+<a href="https://t.me/printing3dthings_bot">@printing3dthings_bot</a>
+ВК: https://vk.com/3dcatpro
+
+По всем вопросам <a href="https://t.me/Maker_mind">@Maker_mind</a>
+
 ## Creativity Elf Ru bookmarks
 
 https://t.me/joinchat/AAAAAFinHNUPUgjsE8ER4A
