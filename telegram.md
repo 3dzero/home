@@ -18,7 +18,15 @@ https://t.me/make3dru
 ### Официальное сообщество компании KingRoon (KeePang store) в России 
 https://t.me/kingroonkp3_chat
 
-### 3D Printing ChuchaTV
+## 3D Printing ChuchaTV
+
 https://t.me/flyingbear5
 
-Help in solving problems with Flying Bear Ghost 5 ,Creality En
+Привет, если у Вас  возникли вопросы по  3д печати, обязательно укажите:  
+- Какой принтер
+- Какой пластик (Производитель)
+- Температура  печати
+- Другие параметры
+- Приложите фото проблемы
+
+  Help in solving problems with Flying Bear Ghost 5 ,Creality En
