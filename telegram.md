@@ -1,4 +1,7 @@
 # Telegram chans
+## 3D Printing Cosplay &amp; Static Figure
+
+https://t.me/Printing3DCosplayStaticFigure
 ## 3D Printing Miniatures &amp; Terrain
 
 https://t.me/Printing3DMiniaturesTerrain
