@@ -1,4 +1,23 @@
 ## Telegram chans
+## Marvel STL
+
+https://t.me/MarvelSTL
+## 3D Printing *Adult*
+
+https://t.me/Printing3DAdult
+## 3D Printing Cosplay &amp; Static Figure
+
+https://t.me/Printing3DCosplayStaticFigure
+
+## 3D Printing Miniatures &amp; Terrain
+
+https://t.me/Printing3DMiniaturesTerrain
+## 3D Printing
+
+https://t.me/Printing3D3
+
+Every thing about 3D Printing
+
 ## ⚙ 3D Принтер ♻️
 
 https://t.me/printer_3d_cnc_machine
