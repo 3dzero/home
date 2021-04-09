@@ -75,12 +75,11 @@ https://t.me/s/DragonBallSTL
 ## Marvel STL
 
 https://t.me/s/MarvelSTL
+
 ## 3D Printing *Adult*
 
 https://t.me/s/Printing3DAdult
-## 3D Printing Cosplay &amp; Static Figure
 
-https://t.me/s/Printing3DCosplayStaticFigure
 
 ## 3D Printing Miniatures &amp; Terrain
 
