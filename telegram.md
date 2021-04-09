@@ -1,4 +1,13 @@
 ## Telegram chans
+## ⚙ 3D Принтер ♻️
+
+https://t.me/printer_3d_cnc_machine
+
+Предоставляем услугу 3D печати в СПБ на заказ Ваших моделей Для расчёта стоимости и сроков изготовления 
+Обращаться: <a href="https://t.me/Kamach1280">@Kamach1280</a>
+
+Чат: <a href="https://t.me/chat_dly_3d_printer">@chat_dly_3d_printer</a>
+
 ## KingRoonKP3/KP3S с прошивкой Marlin
 
 https://t.me/KingRoonKP3
