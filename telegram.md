@@ -1,7 +1,7 @@
 # Telegram chans
 ## STL Share
 
-https://t.me/STLShare
+https://t.me/s/STLShare
 
 This is a Group for sharing 3D printable Models.
 Before posting anything here, please make sure the license for the model allows for it.
