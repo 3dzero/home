@@ -1,4 +1,8 @@
 ## Telegram chans
+## Creativity Elf Ru bookmarks
+
+https://t.me/joinchat/AAAAAFinHNUPUgjsE8ER4A
+
 ## 3D технологии
 
 https://t.me/threedtechno
@@ -17,8 +21,13 @@ https://t.me/make3dru
 
 Новости и статьи о 3D технологиях
 
-### Официальное сообщество компании KingRoon (KeePang store) в России 
+## KingRoon 3D-Printers
+
 https://t.me/kingroonkp3_chat
+
+Официальное сообщество компании KingRoon (KeePang store) в России 
+(ссылка на этот чат https://t.me/kingroonkp3_chat )
+
 
 ## 3D Printing ChuchaTV
 
