@@ -1,4 +1,9 @@
 # Telegram chans
+## 3D Printing Gossip
+
+https://t.me/go3dp
+
+This channel socializes 3D printing technology. Caution: Can be innovatively addictive, causing imaginative life hacks. Administered by Oluss Studio.
 ## Animals FREE STLs
 
 https://t.me/AnimalSTL
