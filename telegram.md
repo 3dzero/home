@@ -1,5 +1,11 @@
 ## Telegram chans
 
+## RepRapFirmware
+
+https://t.me/RRF_ru
+
+Wiki - https://duet3d.dozuki.com/
+
 ## Барахолка запчастей 3D принтера
 
 https://t.me/fleamarket3d
