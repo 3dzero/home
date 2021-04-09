@@ -1,4 +1,10 @@
 ## Telegram chans
+## PETPull (OfficialGroup)
+
+https://t.me/PETPullGroup
+
+Ветка форума: https://3deshnik.ru/forum/viewtopic.php?f=37&amp;t=986&amp;p=46411#p46411
+Ссылка на группу: https://t.me/PETPullGroup
 
 ## RepRapFirmware
 
