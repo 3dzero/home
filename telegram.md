@@ -1,4 +1,9 @@
 ## Telegram chans
+
+## Free STL Miniatures &amp; Terrain
+
+https://t.me/MiniaturesTerrain
+
 ## Cosplay &amp; Static Figure Free STL
 
 https://t.me/CosplayStaticFigure
