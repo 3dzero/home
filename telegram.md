@@ -1,4 +1,8 @@
 # Telegram chans
+## Specialstl.com
+
+https://t.me/s/specialstl
+
 ## 3D Printing Germany
 
 https://telegram.me/ThreeDimensionalPrinting
