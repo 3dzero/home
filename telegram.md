@@ -1,4 +1,10 @@
 ## Telegram chans
+## Cosplay &amp; Static Figure Free STL
+
+https://t.me/CosplayStaticFigure
+## Dragon Ball STL
+
+https://t.me/DragonBallSTL
 ## Marvel STL
 
 https://t.me/MarvelSTL
