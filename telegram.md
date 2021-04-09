@@ -1,4 +1,11 @@
 # Telegram chans
+## 3D Printing Germany
+
+https://telegram.me/ThreeDimensionalPrinting
+
+German group about 3d printing.
+Regeln / Rules:
+https://t.me/Regeln3DPrintGermany
 ## 3D Printing Gossip
 
 https://t.me/go3dp
