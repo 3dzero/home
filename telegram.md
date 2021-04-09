@@ -1,4 +1,7 @@
 # Telegram chans
+## 3D Printing Miniatures &amp; Terrain
+
+https://t.me/Printing3DMiniaturesTerrain
 ## 3D Printing
 
 https://t.me/Printing3D3
