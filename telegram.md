@@ -1,4 +1,8 @@
 ## Telegram chans
+## KingRoonKP3/KP3S с прошивкой Marlin
+
+https://t.me/KingRoonKP3
+
 ## PETPull (OfficialGroup)
 
 https://t.me/PETPullGroup
