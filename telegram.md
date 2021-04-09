@@ -1,5 +1,15 @@
 ## Telegram chans
+## AdultFreeSTL
 
+https://t.me/AdultFreeSTL
+
+## Star Wars STL
+
+https://t.me/StarWarsSTL
+
+## DC STL
+
+https://t.me/DCSTL
 ## Free STL Miniatures &amp; Terrain
 
 https://t.me/MiniaturesTerrain
