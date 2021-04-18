@@ -1,4 +1,10 @@
 # Telegram chans
+## FDM Artel
+
+https://t.me/FDMArtel
+
+Группа создана для обсуждения НАШИХ адгезивов&#33; А так же для возможных предложений, рационализаторства&#33;) Ну и конечно для претензий, если таковые возникнут&#33; Заказы на сайте - www.fdmartel.ru
+
 ## 3D Printing Cosplay &amp; Static Figure
 
 https://t.me/Printing3DCosplayStaticFigure
